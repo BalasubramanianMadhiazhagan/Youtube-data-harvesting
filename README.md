@@ -22,7 +22,7 @@ stores it in a SQL database, and enables users to search for channel details and
 
 1.Used google API by creating unique API key for extracting Datas of different channel IDs for the "Yout tube" using API Integration.
 
-2 Used python scripting completely based on Function blocks containing 'For loops' to retrieve the datas.
+2 Used python scripting completely based on Function blocks containing 'For loops' and 'IF statements' to retrieve the datas.
 
 3.The retrieved data got stored in the seperate database using MongDB.
 
